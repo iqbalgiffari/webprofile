@@ -1,0 +1,27 @@
+.bg-red1 {
+  background-color: #c21010;
+}
+
+.bg-red2 {
+  background-color: #f5eddc;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.hero {
+  transition: transform 0.3s ease;
+}
+
+.hero:hover {
+  transform: scale(1.1);
+}
+
+.btn {
+  transition: transform 0.3s ease;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
